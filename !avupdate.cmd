@@ -1,7 +1,7 @@
 @echo off
 echo Script for update free AV scaning engines
 rem Depends on wget. https://eternallybored.org/misc/wget/
-rem put in the same folder with this script
+rem if not exist will be downloaded automatically
 rem and AVZ https://www.z-oleg.com/secur/avz/download.php
 rem extract in avz4 folder near the script
 
